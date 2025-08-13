@@ -1,0 +1,6 @@
+android/app/build/
+web/node_modules/
+*.bin
+*.mp4
+*.srt
+*.vtt
